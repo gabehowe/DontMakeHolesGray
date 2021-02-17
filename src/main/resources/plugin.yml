@@ -1,0 +1,4 @@
+name: DontMakeHolesGray
+version: 0.1.0
+main: io.github.gabehowe.dontmakeholesgray.DontMakeHolesGray
+api-version: 1.16
